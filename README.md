@@ -5,11 +5,12 @@ I am Maya, a 3rd year computer science and bioinformatics student.
 Looking to enrich my knowledge and contribute on open source projects.
 
 <!--  - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Machine learning
+- 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything
 - 📫 You can reach me on mayasag10@gmail.com
-<!-- - ⚡ Fun fact: ...
+- ⚡ Fun fact: some cats are allergic to people
+<!-- - 
 - 🤔 I’m looking for help with Data Sience -->
 
 Languages and Tools:
