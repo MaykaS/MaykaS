@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am Maya, a 3rd year computer science and bioinformatics student.
+I am Maya, a 4th year computer science and bioinformatics student.
 Looking to enrich my knowledge and contribute on open source projects.
 
 <!--  - 🔭 I’m currently working on ... -->
