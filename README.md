@@ -1,17 +1,9 @@
 ### Hi there 👋
 
 
-I am Maya, a 4th year computer science and bioinformatics student.
-Looking to enrich my knowledge and contribute on open source projects.
-
-<!--  - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently diving into Deep Learning 
-- 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything
 - 📫 You can reach me on mayasag10@gmail.com
 - ⚡ Fun fact: some cats are allergic to people
-<!-- - 
-- 🤔 I’m looking for help with Data Science -->
 
 Languages and Tools:
 
