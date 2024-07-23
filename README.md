@@ -15,13 +15,6 @@ www.linkedin.com/in/maya-sagalin-
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 
-<a href="https://github.com/MaykaS/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MaykaS" />
-</a>
-<a href="https://github.com/MaykaS/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaykaS&layout=compact&langs_count=8&card_width=320&hide=jupyter%20notebook" />
-</a>
-
 
 <!--https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#markdown-badges-->
 
