@@ -16,7 +16,7 @@ www.linkedin.com/in/maya-sagalin-
 
 ## Languages Used
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaykaS&hide=jupyter)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaykaS&hide=Jupyter%20Notebook)
 
 
 <!--https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#markdown-badges-->
