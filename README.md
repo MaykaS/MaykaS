@@ -14,6 +14,9 @@ www.linkedin.com/in/maya-sagalin-
 ### Databases
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
+## Languages Used
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaykaS)
 
 
 <!--https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#markdown-badges-->
