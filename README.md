@@ -1,24 +1,71 @@
-mayasag10@gmail.com
+<h1 align="center">Maya Sagalin</h1>
 
-www.linkedin.com/in/maya-sagalin-
+<p align="center">
+  Product-minded builder with a CS foundation, focused on creating thoughtful products at the intersection of technology, people, and systems.
+</p>
 
+<p align="center">
+  Cornell MBA • Product Management • AI • Builder
+</p>
 
+<p align="center">
+  <a href="https://maykas.github.io/">Website</a> •
+  <a href="https://www.linkedin.com/in/maya-sagalin">LinkedIn</a> •
+  <a href="mailto:mayasag10@gmail.com">Email</a>
+</p>
 
-### Languages
+---
 
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=whit"/><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+## About
 
-### Technologies
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)"/><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)"/>
+I started in software development and gradually moved closer to the questions behind the product itself: what should we build, for whom, and why it matters.
 
-### Databases
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+My background combines computer science, product thinking, and cross-functional execution. I am currently pursuing my MBA at Cornell, where I am building on that foundation through work at the intersection of product, strategy, and emerging technology.
 
-## Languages Used
+I’m especially interested in products that require both structured thinking and human judgment — the kind that sit between technical systems, business priorities, and real user needs.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaykaS&hide=Jupyter%20Notebook)
+## What I'm focused on
 
+- Building products with strong technical and strategic foundations
+- Exploring AI and agentic workflows in practical product settings
+- Translating ambiguity into clear priorities, decisions, and execution
+- Creating communities and programs that help people grow
+<!---
+## Selected Projects
 
-<!--https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#markdown-badges-->
+### AI Customer-Service Prototype
+Built an end-to-end agentic AI customer-service prototype through Cornell’s Digital Technology Immersion, including the PR/FAQ, executive narrative, and demo story.
 
+### MBA Mentorship Initiative
+Co-leading a mentorship program for international MBA students navigating recruiting, career transitions, and the U.S. job market through structured programming and peer support.
 
+### Code for Israel
+Contributed as a volunteer full-stack developer on nonprofit-focused tools, working across product and engineering to support social-impact organizations.
+
+### Cyber Research Program
+Selected for the Ruhr-Israel Cyber Activator program, where I worked on smart-lock data protection research and presented findings to academic and industry stakeholders.
+--->
+
+## Skills
+
+**Product**
+Product Management • Roadmapping • 0-to-1 Product • Agile / Scrum • User Research • Stakeholder Management • PRD Writing • Trade-off Analysis
+
+**Technical**
+Python • SQL • JavaScript • C# • C++ • Git • REST APIs • MongoDB
+
+**AI & Data**
+Agentic AI • Prompt Engineering • LLM Integration • Data Analysis • A/B Testing
+
+**Languages**
+English • Hebrew • Russian
+
+## Beyond work
+
+A few things that matter to me outside of work: salsa dancing, embroidery, travel, writing, and time with my Great Pyrenees, Dylan.
+
+## Find me here
+
+- Portfolio: [maykas.github.io](https://maykas.github.io/)
+- LinkedIn: [linkedin.com/in/maya-sagalin](https://www.linkedin.com/in/maya-sagalin)
+- Email: [mayasag10@gmail.com](mailto:mayasag10@gmail.com)
