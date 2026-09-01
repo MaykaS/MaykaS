@@ -18,11 +18,11 @@
 
 ## About
 
-I started in software development and gradually moved closer to the questions behind the product itself: what should we build, for whom, and why it matters.
+It was never just "how do I build this." It was always also "why are we building this at all" — and I never really stopped chasing that second half.
 
-My background combines computer science, product thinking, and cross-functional execution. I am currently pursuing my MBA at Cornell, where I am building on that foundation through work at the intersection of product, strategy, and emerging technology.
+That's mostly what I do now. I get curious about a problem, follow it until I understand it, then figure out what's worth building because of it. Some of that turns into products. Some of it turns into a system I built for myself because the chaos was bothering me more than it should have. Most of it just turns into questions for whoever's in the room.
 
-I’m especially interested in products that require both structured thinking and human judgment — the kind that sit between technical systems, business priorities, and real user needs.
+I like being close enough to the technical side to build the thing myself, and close enough to the people side to know if it's worth building at all.
 
 ## What I'm focused on
 
